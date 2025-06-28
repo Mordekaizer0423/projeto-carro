@@ -1,0 +1,30 @@
+body{
+    font-family: sans-serif, arial;
+    margin: 0px;
+    height: 100px;
+    }
+
+.titulo{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-bottom: 0px;
+    margin: 0px;
+}
+
+.paragrafo{
+    margin-bottom: 0px;
+    margin: 0px;
+}
+
+.lugar1{
+    background-color: gold;
+}
+
+.lugar2{
+    background-color: silver;
+}
+
+.lugar3{
+    background-color: rgb(165, 89, 42);
+}
